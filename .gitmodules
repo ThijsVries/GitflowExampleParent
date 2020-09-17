@@ -2,3 +2,7 @@
 	path = child-module
 	url = https://github.com/ThijsVries/GitFlowExampleChild.git
 	branch = develop
+[submodule "component"]
+	path = component
+	url = https://github.com/ThijsVries/GitFlowExampleComponent.git
+	branch = develop
